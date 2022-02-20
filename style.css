@@ -1,1 +1,30 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.inputs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.inputs input {
+  margin: .5rem;
+  max-width: 50vw;
+}
+
+h1 {
+  font-weight: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+  background-color: #ffebef;
+}
+
+#submit-button {
+  background-color: pink;
+  font-size: 1.2rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
